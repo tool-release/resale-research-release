@@ -1,3 +1,3 @@
 # resale-research-release
 
-ReSaleResearchTool のインストーラ配布用です。
+ResaleResearchTool のインストーラ配布用です。
